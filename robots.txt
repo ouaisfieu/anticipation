@@ -1,0 +1,6 @@
+# Anticipation — le jeu de la Belgique politique
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://ouaisfieu.github.io/anticipation/sitemap.xml
